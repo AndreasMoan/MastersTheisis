@@ -1,0 +1,77 @@
+
+=================== Changing parameters: ===================
+Mininum subpopulation size: 25
+Generation size:            100
+Education rate:             0.75
+Repair rate:                0.25
+Move chance:                1.0
+
+Iteration - time spent - final objective value
+167 - 16.44959261 - 27336.176635623247
+338 - 28.976789217 - 27048.48383130905
+358 - 30.190244209 - 25421.92671056768
+387 - 31.569129618 - 23957.85967407019
+421 - 33.594565083 - 23766.202352961252
+495 - 38.545693259 - 19376.895228086207
+498 - 38.595913609 - 19273.008480096687
+506 - 38.996727989 - 17810.878994079936
+511 - 39.21424666 - 17640.552661239806
+590 - 44.835184294 - 12244.613796586813
+622 - 47.514256125 - 12164.811345523163
+900 - 68.697402704 - 11996.32786739936
+2114 - 162.35204209 - 11507.374384037224
+2710 - 204.782190625 - 11359.775151882457
+2861 - 212.658458717 - 11344.659818491862
+3446 - 251.042781106 - 11255.709066959755
+3735 - 266.296425601 - 11242.713359549078
+4089 - 284.60007205 - 11224.876887188648
+4315 - 297.786141659 - 11211.881179777974
+4478 - 306.065927015 - 11146.693384711656
+4805 - 322.11452293 - 11041.32439993004
+4884 - 326.565567718 - 11025.45890545183
+5529 - 364.859697925 - 10983.071910097766
+6304 - 407.869334945 - 10948.366442537033
+7431 - 471.401031567 - 10935.435700329173
+
+Final solution:
+Iteration:  13932
+Time:       826.271119098
+Cost:       10935.435700329173
+Chromosome: {0=[5, 23, 22, 21, 20, 19], 1=[6, 16, 11, 10, 2, 1], 2=[15, 14, 18, 17, 3], 3=[4, 9, 8, 7, 12, 13], 4=[]}
+
+============ Printing schedule: ============
+
+------------ vessel number 0 -----------
+Leg nr. 0 to installation 5, depatures: 0/16:00, arrives: 0/20:11, servicing: 0/20:11
+Leg nr. 1 to installation 26, depatures: 0/22:00, arrives: 1/01:47, servicing: 1/01:47
+Leg nr. 2 to installation 25, depatures: 1/04:00, arrives: 1/04:16, servicing: 1/04:16
+Leg nr. 3 to installation 24, depatures: 1/07:00, arrives: 1/07:16, servicing: 1/07:17
+Leg nr. 4 to installation 22, depatures: 1/09:30, arrives: 1/10:42, servicing: 1/10:42
+Leg nr. 5 to installation 21, depatures: 1/11:45, arrives: 1/12:03, servicing: 1/12:03
+Leg nr. 6 to installation 0, depatures: 1/13:45, arrives: 2/03:15, servicing: 2/03:15
+
+------------ vessel number 1 -----------
+Leg nr. 0 to installation 7, depatures: 0/16:00, arrives: 0/20:11, servicing: 0/20:11
+Leg nr. 1 to installation 18, depatures: 0/22:00, arrives: 1/00:07, servicing: 1/00:07
+Leg nr. 2 to installation 12, depatures: 1/02:00, arrives: 1/02:36, servicing: 1/02:36
+Leg nr. 3 to installation 11, depatures: 1/03:15, arrives: 1/03:15, servicing: 1/03:23
+Leg nr. 4 to installation 2, depatures: 1/06:15, arrives: 1/08:17, servicing: 1/08:17
+Leg nr. 5 to installation 1, depatures: 1/10:15, arrives: 1/11:32, servicing: 1/11:32
+Leg nr. 6 to installation 0, depatures: 1/13:30, arrives: 1/19:30, servicing: 1/19:30
+
+------------ vessel number 2 -----------
+Leg nr. 0 to installation 17, depatures: 0/16:00, arrives: 0/23:11, servicing: 0/23:11
+Leg nr. 1 to installation 16, depatures: 1/01:00, arrives: 1/01:00, servicing: 1/01:03
+Leg nr. 2 to installation 20, depatures: 1/03:00, arrives: 1/04:41, servicing: 1/04:41
+Leg nr. 3 to installation 19, depatures: 1/06:00, arrives: 1/06:00, servicing: 1/06:09
+Leg nr. 4 to installation 3, depatures: 1/08:30, arrives: 1/11:47, servicing: 1/11:47
+Leg nr. 5 to installation 0, depatures: 1/13:45, arrives: 1/19:45, servicing: 1/19:45
+
+------------ vessel number 3 -----------
+Leg nr. 0 to installation 4, depatures: 0/16:00, arrives: 0/19:51, servicing: 0/19:51
+Leg nr. 1 to installation 10, depatures: 0/22:15, arrives: 1/00:35, servicing: 1/00:35
+Leg nr. 2 to installation 9, depatures: 1/02:30, arrives: 1/03:09, servicing: 1/03:09
+Leg nr. 3 to installation 8, depatures: 1/05:30, arrives: 1/05:30, servicing: 1/05:33
+Leg nr. 4 to installation 13, depatures: 1/07:30, arrives: 1/08:04, servicing: 1/08:04
+Leg nr. 5 to installation 14, depatures: 1/09:30, arrives: 1/11:08, servicing: 1/11:08
+Leg nr. 6 to installation 0, depatures: 1/13:45, arrives: 2/00:00, servicing: 2/00:00

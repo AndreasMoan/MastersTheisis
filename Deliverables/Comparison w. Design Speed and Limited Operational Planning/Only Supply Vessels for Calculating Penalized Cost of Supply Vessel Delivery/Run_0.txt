@@ -1,0 +1,25 @@
+
+=================== Changing parameters: ===================
+Mininum subpopulation size: 25
+Generation size:            100
+Education rate:             0.75
+Repair rate:                0.25
+Move chance:                1.0
+
+Iteration - time spent - final objective value
+1 - 0.231306995 - 20851.706876697615
+6 - 0.371713154 - 16067.314974837383
+
+Final solution:
+Iteration:  6626
+Time:       12.285814303
+Cost:       16067.314974837383
+Chromosome: {0=[1, 3, 2], 1=[]}
+
+============ Printing schedule: ============
+
+------------ vessel number 0 -----------
+Leg nr. 0 to installation 5, depatures: 0/16:00, arrives: 0/19:15, servicing: 0/19:15
+Leg nr. 1 to installation 17, depatures: 0/21:45, arrives: 1/00:21, servicing: 1/00:21
+Leg nr. 2 to installation 13, depatures: 1/03:00, arrives: 1/06:11, servicing: 1/06:11
+Leg nr. 3 to installation 0, depatures: 1/08:00, arrives: 1/13:30, servicing: 1/13:30

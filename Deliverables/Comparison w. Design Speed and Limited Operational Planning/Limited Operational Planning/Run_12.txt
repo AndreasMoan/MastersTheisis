@@ -1,0 +1,58 @@
+
+=================== Changing parameters: ===================
+Mininum subpopulation size: 25
+Generation size:            100
+Education rate:             0.75
+Repair rate:                0.25
+Move chance:                1.0
+
+Iteration - time spent - final objective value
+1 - 0.081526472 - 38890.09830066962
+3 - 0.130309186 - 37457.111613106295
+12 - 0.231009705 - 37347.66414315427
+14 - 0.26286432 - 22012.63828305986
+78 - 1.039136419 - 20284.42012876524
+131 - 1.777323298 - 8722.245298732243
+184 - 2.795285603 - 8186.785919755423
+248 - 4.088859107 - 7972.960836378834
+285 - 4.863194055 - 7923.8220176032455
+320 - 5.791909478 - 7863.302106574918
+340 - 6.687884585 - 7710.656810805665
+355 - 6.953657406 - 7363.874850872951
+699 - 14.434343913 - 7328.345815246116
+1458 - 29.979400307 - 7277.424356516653
+1461 - 30.071087451 - 7229.317359736059
+1680 - 34.591052452 - 7227.058881297701
+1737 - 35.644635982 - 7226.681309504893
+
+Final solution:
+Iteration:  8238
+Time:       151.167819791
+Cost:       7226.681309504893
+Chromosome: {0=[10, 9, 8, 7, 1, 3], 1=[14, 15, 13, 12, 11, 2, 5], 2=[4, 6], 3=[], 4=[]}
+
+============ Printing schedule: ============
+
+------------ vessel number 0 -----------
+Leg nr. 0 to installation 14, depatures: 0/16:00, arrives: 1/01:27, servicing: 1/01:27
+Leg nr. 1 to installation 13, depatures: 1/04:03, arrives: 1/06:03, servicing: 1/06:04
+Leg nr. 2 to installation 12, depatures: 1/08:55, arrives: 1/11:01, servicing: 1/11:01
+Leg nr. 3 to installation 11, depatures: 1/12:12, arrives: 1/12:12, servicing: 1/12:12
+Leg nr. 4 to installation 2, depatures: 1/14:09, arrives: 1/16:00, servicing: 1/16:00
+Leg nr. 5 to installation 4, depatures: 1/17:58, arrives: 1/18:21, servicing: 1/18:22
+Leg nr. 6 to installation 0, depatures: 1/20:20, arrives: 2/01:03, servicing: 2/01:04
+
+------------ vessel number 1 -----------
+Leg nr. 0 to installation 23, depatures: 0/16:00, arrives: 1/02:10, servicing: 1/02:10
+Leg nr. 1 to installation 24, depatures: 1/03:52, arrives: 1/05:01, servicing: 1/05:01
+Leg nr. 2 to installation 20, depatures: 1/07:14, arrives: 1/09:43, servicing: 1/09:43
+Leg nr. 3 to installation 19, depatures: 1/10:22, arrives: 1/10:22, servicing: 1/10:22
+Leg nr. 4 to installation 18, depatures: 1/11:47, arrives: 1/12:40, servicing: 1/12:40
+Leg nr. 5 to installation 3, depatures: 1/14:06, arrives: 1/16:24, servicing: 1/16:24
+Leg nr. 6 to installation 6, depatures: 1/18:22, arrives: 1/18:34, servicing: 1/18:35
+Leg nr. 7 to installation 0, depatures: 1/21:50, arrives: 2/02:25, servicing: 2/02:25
+
+------------ vessel number 2 -----------
+Leg nr. 0 to installation 5, depatures: 0/16:00, arrives: 0/20:40, servicing: 0/20:40
+Leg nr. 1 to installation 7, depatures: 0/23:03, arrives: 0/23:32, servicing: 0/23:33
+Leg nr. 2 to installation 0, depatures: 1/03:19, arrives: 1/07:45, servicing: 1/07:45

@@ -1,0 +1,40 @@
+
+=================== Changing parameters: ===================
+Mininum subpopulation size: 25
+Generation size:            100
+Education rate:             0.75
+Repair rate:                0.25
+Move chance:                1.0
+
+Iteration - time spent - final objective value
+1 - 0.010053042 - 35313.58829798162
+2 - 0.051820693 - 34484.69697651391
+3 - 0.083403921 - 34220.15687282675
+5 - 0.138351288 - 30094.89359003155
+9 - 0.22542393 - 29953.123756221034
+13 - 0.294897399 - 29175.440606415053
+19 - 0.368687236 - 28791.57328881799
+26 - 0.540175815 - 28414.47006948843
+31 - 0.681977537 - 27272.246789830973
+42 - 0.938540818 - 25481.709502966227
+129 - 3.077929994 - 22341.870329906516
+316 - 5.321389535 - 22292.549785538482
+1152 - 12.446721804 - 22287.656697873193
+
+Final solution:
+Iteration:  7653
+Time:       46.344462499
+Cost:       22287.656697873193
+Chromosome: {0=[2, 7, 5, 6, 4, 3, 1], 1=[]}
+
+============ Printing schedule: ============
+
+------------ vessel number 0 -----------
+Leg nr. 0 to installation 7, depatures: 0/16:00, arrives: 0/19:00, servicing: 0/19:00
+Leg nr. 1 to installation 22, depatures: 0/21:00, arrives: 1/01:11, servicing: 1/01:11
+Leg nr. 2 to installation 16, depatures: 1/02:45, arrives: 1/04:10, servicing: 1/04:10
+Leg nr. 3 to installation 19, depatures: 1/05:30, arrives: 1/06:39, servicing: 1/06:39
+Leg nr. 4 to installation 13, depatures: 1/07:30, arrives: 1/09:40, servicing: 1/09:40
+Leg nr. 5 to installation 11, depatures: 1/11:00, arrives: 1/12:27, servicing: 1/12:27
+Leg nr. 6 to installation 2, depatures: 1/14:45, arrives: 1/16:17, servicing: 1/16:17
+Leg nr. 7 to installation 0, depatures: 1/18:15, arrives: 1/22:15, servicing: 1/22:15
